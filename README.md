@@ -1,6 +1,10 @@
 # Sociodemographic Predictors of Hypertension Risk Among Nigerian Adults
 ## A Machine Learning Analysis of Nigeria DHS 2024
 
+[![Live Demo](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://hypertension-risk-calc.streamlit.app/)
+
+> Try the live app: [hypertension-risk-calc.streamlit.app](https://hypertension-risk-calc.streamlit.app/)
+
 ---
 
 ## Project Overview

@@ -132,7 +132,8 @@ if page == "Risk Calculator":
 
         years_education = st.slider(
             "Years of Education",
-            min_value=0, max_value=20, value=9
+            min_value=0, max_value=20, value=9,
+            help="From primary school"
         )
 
         children = st.slider(
